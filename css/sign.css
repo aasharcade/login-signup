@@ -56,3 +56,9 @@ background-color: aliceblue;
 select:hover{
     background-color: whitesmoke;
 }
+#main-footer{
+    color:white;
+    padding:20px;
+    text-align: center;
+    margin-top:40px;
+}
